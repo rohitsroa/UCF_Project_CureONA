@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "CureONA",
+"productVersion": "0.1",
+"dataUrl": "WebGL(8th Jan-21-Assets_Panel).data.unityweb",
+"wasmCodeUrl": "WebGL(8th Jan-21-Assets_Panel).wasm.code.unityweb",
+"wasmFrameworkUrl": "WebGL(8th Jan-21-Assets_Panel).wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.3.5f1"
+}
